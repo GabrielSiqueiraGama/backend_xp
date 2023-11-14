@@ -1,0 +1,3 @@
+INSERT INTO product (ID , NOME , DESCRICAO , IMAGEM) VALUES (1, 'PC Gamer', 'Pc Gamer I9 11900k, 32GB RAM DDR4, RTX3500TI ', 'https://m.media-amazon.com/images/I/6109CjoWCKL._AC_UF894,1000_QL80_.jpg');
+INSERT INTO product (ID , NOME , DESCRICAO , IMAGEM) VALUES (2, 'Mouse', 'O melhor mouse do mercado.', 'https://assets.corsair.com/image/upload/f_auto,q_auto/content/CH-9000002-NA-M90-05.png');
+INSERT INTO PRODUCT (ID , NOME , DESCRICAO , IMAGEM) VALUES (3, 'Teclado', 'Teclado gamer. ', 'https://cdn.awsli.com.br/600x450/14/14666/produto/172313355/08a055ad55.jpg');
